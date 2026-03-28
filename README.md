@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+Engineer+%26+Data+Scientist;Building+AI-powered+solutions;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Data+into+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=Data+%26+AI+Enthusiast;Learning+Data+%26+AI;Building+Projects;Exploring+Insights" />
 </p>
 
 ---
@@ -100,3 +100,4 @@ I'm ambitious to become a successful AI Engineer and Data Scientist, building im
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
